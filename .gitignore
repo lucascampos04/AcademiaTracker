@@ -1,4 +1,5 @@
 ./main.spec
+### VS Code ###
 .vscode/
 build/
 dist/
